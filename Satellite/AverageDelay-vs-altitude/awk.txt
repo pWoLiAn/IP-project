@@ -1,0 +1,1 @@
+awk -f awk-sat-wired.awk .tr.tr > delay.xg
